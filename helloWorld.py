@@ -1,5 +1,5 @@
-name = input("What is your name ? : ")
+name_of_user = input("What is your name ? : ")
 
 the_user_input = input(" Say something : ")
  
-print (f'{name} said that " {the_user_input} " ')
+print (f'{name_of_user} said that " {the_user_input} " ')
